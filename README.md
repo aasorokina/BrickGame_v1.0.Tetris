@@ -1,4 +1,4 @@
-# BrickGame.Tetris
+# BrickGame_v1.0.Tetris
 Implementation Tetris game in C with console interface (using ncurses library)
 
 ## Project description
